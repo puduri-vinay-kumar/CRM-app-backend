@@ -12,7 +12,7 @@ npm install  # for Node.js backend, adjust for your environment
 
 Configure environment variables: Create a .env file in the root directory and add the following:
 .env file
-DB_HOST=database-1.ctu6cq40wy8v.ap-south-1.rds.amazonaws.com
+DB_HOST=databaselink
 
 DB_USER=vinaykumar
 
