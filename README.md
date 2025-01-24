@@ -1,4 +1,5 @@
 CRM System Backend
+
 This repository contains the backend implementation of a basic Customer Relationship Management (CRM) application. The backend is designed to manage customer data such as contacts, companies, and interactions. It includes functionalities like customer management, user authentication, search and filtering, and error handling.
 Installation:
 
